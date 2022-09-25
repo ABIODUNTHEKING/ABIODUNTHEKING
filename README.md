@@ -13,7 +13,7 @@
 
 <br />
 
-<h3 align="center"> 💼 Languages and Tools</h3>
+<h3 align="center"> 💻 Languages and Tools</h3>
 
 <br />
 
@@ -31,7 +31,7 @@
 
 <br />
 
-<h2 align="center">My favorite projects 💻</h2>
+<h2 align="center">My favorite projects ✔️</h2>
 <br />
 <p>I was asked about these two projects a lot during my interviews - so check them out.</p>
 <br />

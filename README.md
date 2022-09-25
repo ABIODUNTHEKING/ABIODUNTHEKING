@@ -31,25 +31,25 @@
 
 <br />
 
-<h2 align="center">About me 👑</h2>
+<h2 align="center">About me :smile</h2>
 <p align="center">
 Location : Lagos, Nigeria
 </p>
 
 <br />
 
-<p>:muscle: I am currently ... helping others to get into tech too by creating content, blog posts and open source projects.</p>
-<p>:eyes: I’m currently learning ... everything about accessibility of webpages and DOM manipulations.</p>
+<p>:muscle: I am currently ... trying to improve my skills and learn about frameworks and DOM manipukations.</p>
+<p>:eyes: I’m currently learning ... everything about accessibility of webpages.</p>
 <p>:raising_hand: I’m looking to collaborate with ... Open Source.</p>
 
 <br />
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YuriDevAT&theme=radical&show_icons=true" width="410"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriDevAT&layout=compact&theme=radical" width="400" />
+<img src="https://github-readme-stats.vercel.app/api?username=ABIODUNTHEKING&theme=radical&show_icons=true" width="410"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABIODUNTHEKING&layout=compact&theme=radical" width="400" />
 </p>
 
 <br />
 <p align="center">
-I love connecting with different people, so say hi! I'll be happy to meet you more! 😊
+I love connecting with different people, so say hi! I'll love to know you better and collaborate with you! 😊
 </p>
 

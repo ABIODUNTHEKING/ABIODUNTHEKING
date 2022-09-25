@@ -9,9 +9,8 @@
 </p>
 <br />
 
-<p align="center">I am an enthusiastic selftaught Accessibility & Frontend developer since 2020.</p>
-<p>I am a mentor by 💙 helping people switching careers into tech too. Therefore, you should check out my <a href="https://yuriscodingclub.com/">learning website</a> for totally beginners, portfolio creators and job-seekers where I am sharing my tips and suggestions.</p>
-<p>From time to time I am contributing to open source to improve projects web accessibility. I also have my own <a href="https://github.com/YurisCodingClub">open source projects</a> to contribute to. Beginners are welcome.</p>
+<p align="center">I am a very commited and dedicated person who wants to become well informed and successful full-stack developer. Definitely, I will love to also be a mentor to the upcoming developers and I can only do this by acquiring more knowledge</p>
+
 <br />
 
 <h3 align="center"> 💼 Languages and Tools</h3>

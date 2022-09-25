@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Hi there, I'm Emmanuel <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></h1>
+  <h1 align="center"><b>Hi there, I'm Emmanuel <img src="https://github.com/ABIODUNTHEKING/ABIODUNTHEKING/blob/main/download.png" alt="" width="30"></h1>
 </p>
 <p align="center">
 <a href="https://juliaundeutsch.com/"><img src="https://img.shields.io/badge/LINKTREE-CC6699?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;

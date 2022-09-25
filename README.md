@@ -38,7 +38,7 @@ Location : Lagos, Nigeria
 
 <br />
 
-<p>:muscle: I am currently ... trying to improve my skills and learn about frameworks and DOM manipukations.</p>
+<p>:muscle: I am currently ... trying to improve my skills and learn about frameworks and a backend language.</p>
 <p>:eyes: I’m currently learning ... everything about accessibility of webpages.</p>
 <p>:raising_hand: I’m looking to collaborate with ... Open Source.</p>
 

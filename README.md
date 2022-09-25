@@ -44,7 +44,7 @@ Location : Lagos, Nigeria
 
 <br />
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ABIODUNTHEKING&theme=light&show_icons=true" width="410"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ABIODUNTHEKING&theme=light&show_icons=true" width="410" height="400"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABIODUNTHEKING&layout=seperate&theme=light" width="400" />
 </p>
 

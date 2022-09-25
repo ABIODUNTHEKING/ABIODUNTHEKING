@@ -5,7 +5,7 @@
 <a href="https://codepen.io/abiodun-a/"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp;
 <a href="https://twitter.com/ABIODUNTHEKING"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
   <a href="https://www.facebook.com/profile.php?id=100057421473512"><img src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/emmanuel-akinjogunla-b9607323a/"><img src="https://img.shields.io/badge/Linkedin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=blue" alt="Linkedin" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/emmanuel-akinjogunla-b9607323a/"><img src="https://img.shields.io/badge/Linkedin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white&logoBackgroundColor=blue" alt="Linkedin" /></a>&nbsp;
 </p>
 <br />
 

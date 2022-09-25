@@ -25,15 +25,15 @@
 <img src="https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" /> 
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+
 
 </p>
 
 <br />
 
-<h2 align="center">My favorite projects ✔️</h2>
+<h2 align="center">Some of my projects ✔️</h2>
 <br />
-<p>I was asked about these two projects a lot during my interviews - so check them out.</p>
+<p>I know there is more room for improvement and I try my best to improve</p>
 <br />
 <br />
 <p align="center">

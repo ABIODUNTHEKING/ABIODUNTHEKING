@@ -3,7 +3,7 @@
 </p>
 <p align="center">
 <a href="https://codepen.io/abiodun-a/"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp;
-<a href="https://twitter.com/ABIODUNTHEKING"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+<a href="https://twitter.com/ABIODUNTHEKING"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter" /></a>&nbsp;
   <a href="https://www.facebook.com/profile.php?id=100057421473512"><img src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 </p>
 <br />

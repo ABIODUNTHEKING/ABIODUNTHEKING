@@ -31,37 +31,16 @@
 
 <br />
 
-<h2 align="center">Some of my projects ✔️</h2>
-<br />
-<p>I know there is more room for improvement and I try my best to improve</p>
-<br />
-<br />
+<h2 align="center">About me 👑</h2>
 <p align="center">
-  <img width="400" src="https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png" />
-  <img width="400" src="https://github.com/the-collab-lab/tcl-19-smart-shopping-list/blob/main/public/Thumbnail.png" />
- <a href="https://github.com/YuriDevAT/sos-animals">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=sos-animals&theme=tokyonight" />
-</a>
-  <a href="https://github.com/YuriDevAT/tcl-19-smart-shopping-list">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=tcl-19-smart-shopping-list&theme=tokyonight" />
-</a>
+Location : Lagos, Nigeria
 </p>
 
 <br />
 
-<h2 align="center">About me 😇</h2>
-<p align="center">
-Timezone: Europe/Vienna (CEST)
-</p>
-
-<br />
-<p>In my latest project, I created an <a href="https://github.com/YuriDevAT/sos-animals">SOS Animal App</a> which will help abandoned animals get help from Animal welfare organizations in Romania when people reporting them via this app. I created this project to participate in my first hackathon - Clerk x Hashnode Hackathon July 2021. 🏆 This project was one of the Runner Up Winners. 🥳</p>
-<br />
 <p>:muscle: I am currently ... helping others to get into tech too by creating content, blog posts and open source projects.</p>
-<p>:eyes: I’m currently learning ... everything about accessibility from the design process to web development to testing.</p>
+<p>:eyes: I’m currently learning ... everything about accessibility of webpages and DOM manipulations.</p>
 <p>:raising_hand: I’m looking to collaborate with ... Open Source.</p>
-<p>:speech_balloon: Ask me about anything related to... accessibility. I am happy to help.</p>
-<p>:ghost: Fun fact: ... I studied Musicology and Japanese studies, but I switched careers in my 30s and learned coding all by myself. </p>
 
 <br />
 <p align="center">
@@ -74,17 +53,3 @@ Timezone: Europe/Vienna (CEST)
 I love connecting with different people, so say hi! I'll be happy to meet you more! 😊
 </p>
 
-<br />
-<h2 align="center"> 📕 Latest Blog Posts</h2>
-
-<!-- DEV:START -->
-- [Q&amp;A: Who Is Responsible For Accessibility](https://dev.to/yuridevat/qa-who-is-responsible-for-accessibility-3ep2)
-- [Am I Ready To Apply For Jobs?](https://dev.to/yuridevat/am-i-ready-to-apply-for-jobs-1k9l)
-- [&quot;Elderly&quot;, a meeting app for older people](https://dev.to/yuridevat/elderly-a-meeting-app-for-older-people-4gjb)
-- [How Inspiring A Company Can Be](https://dev.to/yuridevat/how-inspiring-a-company-can-be-4lj8)
-- [Accessibility Testing Tools](https://dev.to/yuridevat/accessibility-testing-tools-4d4g)
-<!-- DEV:END -->
-
-... [Read more articles on Dev.To](https://dev.to/yuridevat)
-
-<p>I have been granted "trusted" user on <a href="https://dev.to/">DEV Community</a> built on Forem 🤝.</p>

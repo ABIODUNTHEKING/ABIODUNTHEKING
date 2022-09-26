@@ -1,9 +1,7 @@
 <p>
   <h1 align="center"><b>Hi there, I'm Emmanuel <img src="https://github.com/ABIODUNTHEKING/ABIODUNTHEKING/blob/main/download.png" alt="" width="50"></h1>
 </p>
-<p align="center">
-<img src="https://github.com/ABIODUNTHEKING/ABIODUNTHEKING/blob/main/IMG_3161.jpeg" alt="">
-</p>
+
 <p align="center">
 <a href="https://the-king.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-87ceeb?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp;
 <a href="https://twitter.com/ABIODUNTHEKING"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;

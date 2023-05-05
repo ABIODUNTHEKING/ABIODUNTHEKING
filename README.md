@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Hi there, I'm Emmanuel <img src="https://github.com/ABIODUNTHEKING/ABIODUNTHEKING/blob/main/download.png" alt="" width="50"></h1>
+  <h1 align="center"><b>Hi there, I'M EMMANUEL ABIODUN AKINJOGUNLA</h1>
 </p>
 
 <p align="center">

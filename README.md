@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<a href="https://the-king.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-87ceeb?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp;
+<a href="https://abioduntheking.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-87ceeb?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp;
 <a href="https://twitter.com/ABIODUNTHEKING"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
   <a href="https://www.facebook.com/profile.php?id=100057421473512"><img src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/emmanuel-akinjogunla-b9607323a/"><img src="https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white&logoBackgroundColor=blue" alt="Linkedin" /></a>&nbsp;
